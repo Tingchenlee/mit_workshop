@@ -7,8 +7,7 @@ dependencies:
   - numpy
   - matplotlib
 
-
-
     # Pip-only installs
-  #- pip:
-
+  - pip:
+    - sphinx
+    - sphinx-rtd-theme
